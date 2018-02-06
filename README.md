@@ -1,2 +1,2 @@
-# testdummy
+# Test Project
 github tests
